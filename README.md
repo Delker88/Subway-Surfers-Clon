@@ -1,5 +1,6 @@
 <h1 align= "Center">Subway Surfers Clon</h1>
-<h3>Es un clon del famoso juegop Subway Surfers, consiste en esquivar obtaculos saltando entre los carriles de las vias del tren</h3>
+<h3 b>Descripcion</h3>
+Es un clon del famoso juego Subway Surfers, consiste en esquivar obstaculos saltando entre los carriles de las vias del tren.
 <h2 b>Animaciones</h2>
 <h3>Base layer</h3>
 <li>Dodge Left</li>
